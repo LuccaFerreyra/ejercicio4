@@ -6,6 +6,10 @@ package ejercicio4git;
  * @author Miguel Villar
  * 
  * VERIFICAR CAMBIOS
+ * 
+ * hola mundo
+ * 
+ * HOLA MUNDO
  */
 public class Caballo {
     
