@@ -3,7 +3,9 @@ package ejercicio4git;
 
 /**
  *
- * @author Miguel
+ * @author Miguel Villar
+ * 
+ * VERIFICAR CAMBIOS
  */
 public class Caballo {
     
